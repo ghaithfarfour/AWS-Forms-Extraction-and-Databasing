@@ -5,6 +5,9 @@ upload its contents into a NOSQL dababase.
 # Proposed Architecture
 The core components of this projects are utilised in the architecture below.
 
+
+![Proposed Architecture](https://github.com/ghaithfarfour/AWS-Forms-Extraction-and-Databasing/blob/master/Architecture.png)
+
 # Lambda Functions
 Two Lambda functions were written for this process.
 
